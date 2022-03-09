@@ -1,0 +1,20 @@
+React JS:
+
+Create an app:
+1. npx create-react-app app-name
+
+
+React Snippets - rfce to create functional component
+
+Custom defined components should start with capital letter. 
+JSX requires all html tags closed properly
+
+
+Component:
+1. Class Component
+2. Function Component
+
+
+in import statement, curly braces are not needed for default component. Needed for non-default component
+
+Name of the module need not match default exported class
